@@ -1,0 +1,21 @@
+.focus {
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+  cursor: pointer;
+}
+
+.focus:focus {
+  background: rgb(81, 255, 0);
+  color: black;
+}
+
+.red-input:focus {
+  background: yellow;
+  color: red;
+}
+
+.blue-input:focus {
+  background: yellow;
+  color: blue;
+}

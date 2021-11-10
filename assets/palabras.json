@@ -1,0 +1,617 @@
+[
+ {
+   "palabra": "Alfareria",
+   "definicion": "Oficio de tradicion del municipio de ponedera con el que la fundacion gases del caribe se encuentra realizando proyectos de emprendimiento",
+   "letra": "A"
+ },
+ {
+   "palabra": "Antartida",
+   "definicion": "Lugar mas frio de la tierra",
+   "letra": "A"
+ },
+ {
+   "palabra": "Aprende",
+   "definicion": "Prograna de lecto escritura implementado en atalntico, mag y cesar por la Fundacion Gases del Caribe.",
+   "letra": "A"
+ },
+ {
+   "palabra": "Arte y Tejido",
+   "definicion": "Marca de mochilas de la fundacion",
+   "letra": "A"
+ },
+ {
+   "palabra": "Ballena azul",
+   "definicion": "Animal mas grande del mundo",
+   "letra": "B"
+ },
+ {
+   "palabra": "Bienestar ",
+   "definicion": "Actividades que se realizan a lo largo del año que nos permiten fomentar los vinculos entre los colaboradores y sus familias. ",
+   "letra": "B"
+ },
+ {
+   "palabra": "Bizcocho",
+   "definicion": "Objeto de porcelana sin pintar",
+   "letra": "B"
+ },
+ {
+   "palabra": "Brilla",
+   "definicion": "Negocio que mejora la calidad de vida de los usuarios de gas natural",
+   "letra": "B"
+ },
+ {
+   "palabra": "Capacitación",
+   "definicion": "Una formación que te da la organización para que desarrolles los conocimientos y compotencias que tu cargo requiere y puedas desempeñarte exitosamente. ",
+   "letra": "C"
+ },
+ {
+   "palabra": "Chorrera",
+   "definicion": "Como se llama el correg del municipio de juan de acosta donde queda ubicado el programa de las artesanas de la Fundaciones Gases del Caribe",
+   "letra": "C"
+ },
+ {
+   "palabra": "Clementina",
+   "definicion": "La chef de Gases del Caribe",
+   "letra": "C"
+ },
+ {
+   "palabra": "Clima Organizacional ",
+   "definicion": "Una de nuestras grandes fortalezas que hacen que trabajar en Gases del Caribe sea una experiencia unica.",
+   "letra": "C"
+ },
+ {
+   "palabra": "Compromiso",
+   "definicion": "Sentir como propios los objetivos de la organización. Apoyar decisiones, prevenir y superar obstáculos, cumplir con los compromisos adquiridos con disposición de servicio y actitud positiva en el cumplimiento de sus responsabilidades.",
+   "letra": "C"
+ },
+ {
+   "palabra": "Cultura Organizacional",
+   "definicion": "Conjunto de creencias, habitos, valores y actitudes existentes que hacen a Gases del Caribe una empresa unica.",
+   "letra": "C"
+ },
+ {
+   "palabra": "Cumpleaños feliz",
+   "definicion": "Cancion mas cantada en el mundo",
+   "letra": "C"
+ },
+ {
+   "palabra": "Dante Alighieri",
+   "definicion": "Autor de la divina comedia",
+   "letra": "D"
+ },
+ {
+   "palabra": "Diamante",
+   "definicion": "Mineral mas duro del planeta",
+   "letra": "D"
+ },
+ {
+   "palabra": "Don Quijote",
+   "definicion": "Obra literaria mas representante de Miguel de Cervantes ",
+   "letra": "D"
+ },
+ {
+   "palabra": "Educacion",
+   "definicion": "El programa aprende, que recientemente recibio el premio Nobel de la educacion, se encuentra implementado por la fundacion gases del caribe dentro de la linea de…",
+   "letra": "E"
+ },
+ {
+   "palabra": "El Padrino",
+   "definicion": "Francis Ford Copola dirgio esta trilogia",
+   "letra": "E"
+ },
+ {
+   "palabra": "Emprendimiento",
+   "definicion": "Linea de accion de la fundacion Gases del Caribe que mejora la calidad de vida en sus beneficiarios",
+   "letra": "E"
+ },
+ {
+   "palabra": "Ernesto Herrera",
+   "definicion": "Quien dice ''tu sabes''",
+   "letra": "E"
+ },
+ {
+   "palabra": "Estrategia",
+   "definicion": "Serie de acciones muy analizadas, encaminadas hacia un obejtivo determinado.",
+   "letra": "E"
+ },
+ {
+   "palabra": "Etica",
+   "definicion": "Sentir y obrar en todo momento consecuentemente con los valores, la moral, las buenas costumbres y las mejores prácticas profesionales, respetando las políticas organizacionales.",
+   "letra": "E"
+ },
+ {
+   "palabra": "Falcao",
+   "definicion": "Maximo goleador de la selección colombia",
+   "letra": "F"
+ },
+ {
+   "palabra": "Fondegases",
+   "definicion": "El lugar donde su ahorro le genera mejor beneficios",
+   "letra": "F"
+ },
+ {
+   "palabra": "Freud",
+   "definicion": "Padre del psicoanalisis",
+   "letra": "F"
+ },
+ {
+   "palabra": "Gas natural",
+   "definicion": "Fuente de energia limpia y eficiente",
+   "letra": "G"
+ },
+ {
+   "palabra": "Gasu",
+   "definicion": "Mascota que no da tips sobre seguridad informatica ",
+   "letra": "G"
+ },
+ {
+   "palabra": "Gepetto",
+   "definicion": "El padre de pinocho",
+   "letra": "G"
+ },
+ {
+   "palabra": "Gestión Humana ",
+   "definicion": "Area de la empresa que se encarga de toda la gestion de las personas desde el momento de su selección, inducción, capacitación y  desarrollo. Un area que siempre tiene las puertas abiertas para recibirte cuando lo necesites. ",
+   "letra": "G"
+ },
+ {
+   "palabra": "Great place to work",
+   "definicion": "Firma que calificó a Gases del Caribe como una de las mejores empresas para trabajar en Colombia",
+   "letra": "G"
+ },
+ {
+   "palabra": "Hernan Garcia",
+   "definicion": "El personificador de Gases del Caribe",
+   "letra": "H"
+ },
+ {
+   "palabra": "Hielo",
+   "definicion": "Agua solidificada por el frio",
+   "letra": "H"
+ },
+ {
+   "palabra": "Honestidad",
+   "definicion": "Tener clara conciencia, ante mí y ante los demás de lo que está bien y es apropiado en nuestro rol, conducta y relaciones, sin contradicciones ni discrepancias entre el pensamiento, las palabras y las acciones.",
+   "letra": "H"
+ },
+ {
+   "palabra": "Huella",
+   "definicion": "palabra que significa dejar un legado",
+   "letra": "H"
+ },
+ {
+   "palabra": "Iguana",
+   "definicion": "Animal que le genera fobia a Angie Vives",
+   "letra": "I"
+ },
+ {
+   "palabra": "Induccion",
+   "definicion": "Metodo utilizado por gestion humana para capacitar por primera vez a los nuevos empleados",
+   "letra": "I"
+ },
+ {
+   "palabra": "Infierno",
+   "definicion": "Según la religion lugar del castigo eterno",
+   "letra": "I"
+ },
+ {
+   "palabra": "Innovación",
+   "definicion": "Importante fuente de crecimiento y  factor determinante para la ventaja competitiva en las organizaciones",
+   "letra": "I"
+ },
+ {
+   "palabra": "Ja ja ja",
+   "definicion": "palabra comun para manifestar risa en Whatsapp",
+   "letra": "J"
+ },
+ {
+   "palabra": "Jaime Ochoa",
+   "definicion": "Persona mas temida en la empresa cuando tienes el tapabocas abajo.",
+   "letra": "J"
+ },
+ {
+   "palabra": "Jean",
+   "definicion": "Prenda de vestir con la que se puede venir los viernes",
+   "letra": "J"
+ },
+ {
+   "palabra": "Jupiter",
+   "definicion": "Planeta mas grande del sistema solar",
+   "letra": "J"
+ },
+ {
+   "palabra": "Keratina",
+   "definicion": "Producto que hizo famosa a Epa Colombia",
+   "letra": "K"
+ },
+ {
+   "palabra": "Ketty Villanueva",
+   "definicion": "Persona que participo en la construccion del protocolo de bioseguridad durante la pandemia",
+   "letra": "K"
+ },
+ {
+   "palabra": "Kike Liñan",
+   "definicion": "Artista exclusivo de la fiesta de fin de año de Gases del Caribe",
+   "letra": "K"
+ },
+ {
+   "palabra": "Kilo",
+   "definicion": "Unidad de peso que equivale a 1,000 gramos",
+   "letra": "K"
+ },
+ {
+   "palabra": "Leña",
+   "definicion": "Corregimiento en el Atlantico con nombre del combustible que es competencia de Gas Natural",
+   "letra": "L"
+ },
+ {
+   "palabra": "Leyenda",
+   "definicion": "Narracion popular que cuenta un hecho real o fabuloso",
+   "letra": "L"
+ },
+ {
+   "palabra": "Liderazgo",
+   "definicion": "Competencia que tienen algunas personas para influir, motivar y llevar a cabo acciones encaminadas  a lograr los objetivos",
+   "letra": "L"
+ },
+ {
+   "palabra": "Locutor",
+   "definicion": "Lo que mas le gusta al Sr. Roman",
+   "letra": "L"
+ },
+ {
+   "palabra": "Mercaptano",
+   "definicion": "Con que sustancia quimica se odoriza el Gas",
+   "letra": "M"
+ },
+ {
+   "palabra": "Mercurio",
+   "definicion": "Planeta mas cerca del sol",
+   "letra": "M"
+ },
+ {
+   "palabra": "Messi",
+   "definicion": "Futbolista con mas balones de oro",
+   "letra": "M"
+ },
+ {
+   "palabra": "Miguel Cepeda",
+   "definicion": "Educador de Gases del Caribe",
+   "letra": "M"
+ },
+ {
+   "palabra": "Mision",
+   "definicion": "'Somos una empresa dedicada a la distribucion y comercializacion de gas natural''. Esta frase se puede apreciar en nuestra…",
+   "letra": "M"
+ },
+ {
+   "palabra": "Muralla China",
+   "definicion": "Considerada una de las maravillas del mundo",
+   "letra": "M"
+ },
+ {
+   "palabra": "Murcielago",
+   "definicion": "Unico mamifero que puede volar",
+   "letra": "M"
+ },
+ {
+   "palabra": "Nacimiento",
+   "definicion": "¿Qué evento familiar se celebra con todos los empleados y se informa por los canales de comunicacino interno?",
+   "letra": "N"
+ },
+ {
+   "palabra": "Natural",
+   "definicion": "Tipo de gas mas liviano que el aire",
+   "letra": "N"
+ },
+ {
+   "palabra": "Nazareth",
+   "definicion": "Ciudad donde vivio y crecio Jesucristo",
+   "letra": "N"
+ },
+ {
+   "palabra": "Nispero",
+   "definicion": "Fruta que daña los carros de los empleados de Gases del Caribe",
+   "letra": "N"
+ },
+ {
+   "palabra": "Organigrama",
+   "definicion": "Grafico que representa la estructura organizacional",
+   "letra": "O"
+ },
+ {
+   "palabra": "Organizacional",
+   "definicion": "Tipo de comunicación estrategica sobre los procesos de la empresa",
+   "letra": "O"
+ },
+ {
+   "palabra": "Oso",
+   "definicion": "Animal asociado con la pena",
+   "letra": "O"
+ },
+ {
+   "palabra": "Oxigeno",
+   "definicion": "Gas que liberan las plantas al hacer fotosintesis",
+   "letra": "O"
+ },
+ {
+   "palabra": "Pacifico",
+   "definicion": "Oceano mas grande del mundo",
+   "letra": "P"
+ },
+ {
+   "palabra": "Pagos y servicios en linea",
+   "definicion": "Nueva seccion de la pagina web donde puedes realizar tramites y pagos sin salir de casa",
+   "letra": "P"
+ },
+ {
+   "palabra": "Perfil de Cargo",
+   "definicion": "Documento donde encontramos las funciones, competencias y  conocimientos asociados a la labor a desempeñar.",
+   "letra": "P"
+ },
+ {
+   "palabra": "Periodica",
+   "definicion": "Revisión que se realiza en las instalaciones del servicio de gas natural cada 5 años.",
+   "letra": "P"
+ },
+ {
+   "palabra": "Profesionalismo",
+   "definicion": "Desempeño laboral con calidad, esmero, dedicación y oportunidad, aplicando de la mejor manera los conocimientos adquiridos para ejercer nuestro trabajo con disciplina, mística y calidad.",
+   "letra": "P"
+ },
+ {
+   "palabra": "Pulgas",
+   "definicion": "Animal que contagio a los humanos en la pandemia de la peste negra",
+   "letra": "P"
+ },
+ {
+   "palabra": "Qatar",
+   "definicion": "Donde va a ser el mundial de futbol 2022",
+   "letra": "Q"
+ },
+ {
+   "palabra": "Queen",
+   "definicion": "Banda a la que pertenecia Freddie Mercury",
+   "letra": "Q"
+ },
+ {
+   "palabra": "Quemador",
+   "definicion": "Parte de la estufa que facilita la mezcla de gas natural y oxigeno para producir la llama",
+   "letra": "Q"
+ },
+ {
+   "palabra": "Queso",
+   "definicion": "Segundo ingrediente principal de las rosquitas de Chorrera",
+   "letra": "Q"
+ },
+ {
+   "palabra": "Quincenas",
+   "definicion": "La dos fechas mas esperadas del mes",
+   "letra": "Q"
+ },
+ {
+   "palabra": "Rapunzel",
+   "definicion": "La princesa de cuento con el pelo mas largo",
+   "letra": "R"
+ },
+ {
+   "palabra": "Relevo Generacional",
+   "definicion": "Garantiza la disponibilidad de talentos y la continuidad de la organización.",
+   "letra": "R"
+ },
+ {
+   "palabra": "Remolacha",
+   "definicion": "Vegetal de color morado",
+   "letra": "R"
+ },
+ {
+   "palabra": "Respeto ",
+   "definicion": "Capacidad para valorar y aceptar a los demás a pesar de las diferencias, relacionándose en una ambiente de cordialidad; a través de conductas de cortesía y amabilidad.",
+   "letra": "R"
+ },
+ {
+   "palabra": "Retroalimentacion",
+   "definicion": "Entrega de resultados de la evaluacion de desempeño que le hace el jefe periodicamente a su colaborador",
+   "letra": "R"
+ },
+ {
+   "palabra": "Roberto Cure",
+   "definicion": "El que mantiene las monedas organizadas encima del escritorio.",
+   "letra": "R"
+ },
+ {
+   "palabra": "Rusia",
+   "definicion": "Pais mas grande del mundo",
+   "letra": "R"
+ },
+ {
+   "palabra": "Selección de personal ",
+   "definicion": "Proceso mediante el cual se realiza una evaluación a un grupo de candidatos con el fin de encontrar a la persona idonea para ocupar un cargo en la empresa. ",
+   "letra": "S"
+ },
+ {
+   "palabra": "Serrucho",
+   "definicion": "Recomendación de la gerencia para alcanzar los objetivos. ",
+   "letra": "S"
+ },
+ {
+   "palabra": "Servicio al cliente",
+   "definicion": "Implica un deseo de ayudar y servir a los clientes, de comprender y satisfacer sus necesidades, de esforzarse para resolver sus problemas así como de todos aquellos que cooperen en la relación empresa – cliente.",
+   "letra": "S"
+ },
+ {
+   "palabra": "Somos ",
+   "definicion": "Sistema de Gestión Humana en el cual se encuentra toda la informacion de cada colaborador y en el que se ejecutan diferentes procesos de Gestión Humana. ",
+   "letra": "S"
+ },
+ {
+   "palabra": "Sostenibilidad",
+   "definicion": "Lo que se pone en riesgo en las empresas ante la inexistencia de planes de relevo generacional",
+   "letra": "S"
+ },
+ {
+   "palabra": "Telma de Moraes",
+   "definicion": "Consultora que hace las evaluaciones de potencial en Gases del Caribe",
+   "letra": "T"
+ },
+ {
+   "palabra": "Torá",
+   "definicion": "Libro sagrado de los judios",
+   "letra": "T"
+ },
+ {
+   "palabra": "Trabajo en Equipo",
+   "definicion": "La mejor manera de lograr los objetivos en la empresas",
+   "letra": "T"
+ },
+ {
+   "palabra": "Tu Conexión",
+   "definicion": "Medio de comunicación interna que contiene informacion de valor sobre la organización",
+   "letra": "T"
+ },
+ {
+   "palabra": "Ultimo",
+   "definicion": "Lo que viene despues de todo lo demas",
+   "letra": "U"
+ },
+ {
+   "palabra": "Union",
+   "definicion": "Lo que hace la fuerza…",
+   "letra": "U"
+ },
+ {
+   "palabra": "Universidad del Norte",
+   "definicion": "Institucion con la que la Fundacion Gases del Caribe tiene alianza para otorgar becas universitarias",
+   "letra": "U"
+ },
+ {
+   "palabra": "Uva",
+   "definicion": "La fruta con la que se hace el vino",
+   "letra": "U"
+ },
+ {
+   "palabra": "Valledupar",
+   "definicion": "Lugar donde la sede es denominada ''El Callejon de la Estrella''",
+   "letra": "V"
+ },
+ {
+   "palabra": "Valores",
+   "definicion": "Pilar fundamental que guia el comportamiento esperado por  todos los colaboradores.",
+   "letra": "V"
+ },
+ {
+   "palabra": "Victoria",
+   "definicion": "Sinonimo de ganar",
+   "letra": "V"
+ },
+ {
+   "palabra": "Vision",
+   "definicion": "'Continuaremos trabajando para llegar a todas las poblaciones de nuestra area de influencia'' es una frase que se puede apreciar en nuestra…",
+   "letra": "V"
+ },
+ {
+   "palabra": "Washington D.C",
+   "definicion": "Capital de Estados Unidos",
+   "letra": "W"
+ },
+ {
+   "palabra": "Watson",
+   "definicion": "El mejor amigo de Sherlock Holmes",
+   "letra": "W"
+ },
+ {
+   "palabra": "Whatsapp",
+   "definicion": "Un canal de comunicación que fue incluido recientemente por comunicaciones para matenernos informados",
+   "letra": "W"
+ },
+ {
+   "palabra": "Winston Churchill",
+   "definicion": "Primer ministro de Reino Unido durante la Segunda Guerra Mundial",
+   "letra": "W"
+ },
+ {
+   "palabra": "X",
+   "definicion": "letra que se usa como calificacion negativa frente a un error",
+   "letra": "X"
+ },
+ {
+   "palabra": "Xbox",
+   "definicion": "Consola de videojuegos de Microsoft",
+   "letra": "X"
+ },
+ {
+   "palabra": "Xenofobia",
+   "definicion": "Fobia o rechazo a los extranjeros",
+   "letra": "X"
+ },
+ {
+   "palabra": "Xiolofonista",
+   "definicion": "Como se le llama al que toca el Xilofono",
+   "letra": "X"
+ },
+ {
+   "palabra": "Xiomara Perdomo",
+   "definicion": "Persona en Gases del Caribe que maneja la poliza medica",
+   "letra": "X"
+ },
+ {
+   "palabra": "Xochimilco",
+   "definicion": "Lugares donde se encuentran los famosos canales construidos por los aztecas",
+   "letra": "X"
+ },
+ {
+   "palabra": "Y",
+   "definicion": "letra que representa la conjuncion o enlace entre dos palabras o ideas",
+   "letra": "Y"
+ },
+ {
+   "palabra": "Yalexa",
+   "definicion": "Mano derecha del Gerente General",
+   "letra": "Y"
+ },
+ {
+   "palabra": "Yinieth/Yineth",
+   "definicion": "Nombre que genera confusion en el area de Gestion Humana",
+   "letra": "Y"
+ },
+ {
+   "palabra": "Yuca",
+   "definicion": "Ingrediente principal de las rosquitas de Chorrera",
+   "letra": "Y"
+ },
+ {
+   "palabra": "Zanahoria",
+   "definicion": "Lo que come Bugs Bunny",
+   "letra": "Z"
+ },
+ {
+   "palabra": "Zancudo",
+   "definicion": "Como se le llama a lo mosquitos en Bogotá",
+   "letra": "Z"
+ },
+ {
+   "palabra": "Zangano",
+   "definicion": "Persona que no le gusta trabajar y evita hacerlo siempre que puede",
+   "letra": "Z"
+ },
+ {
+   "palabra": "Zapato",
+   "definicion": "¿Cómo queda usted cuando le hacen una pregunta en publico y no sabe la respuesta?",
+   "letra": "Z"
+ },
+ {
+   "palabra": "Zipaquira",
+   "definicion": "Ciudad donde se encuentra la catedral de sal",
+   "letra": "Z"
+ },
+ {
+   "palabra": "Gases del Caribe",
+   "definicion": "El mejor lugar para trabajar",
+   "letra": "G"
+ },
+ {
+   "palabra": "Disciplina",
+   "definicion": "Su cumplimiento de manera constante conduce a obtener los mejores resultados",
+   "letra": "D"
+ }
+]
